@@ -1,0 +1,3 @@
+//here is a sample 
+//resnum-name-age-email-password-ticket_price
+120478,ahmed,15,mr-ahmed@hotmail.com,12312,25.00

@@ -1,0 +1,3 @@
+//how is data arranged in this file:
+name     age  email           password 
+mohammed,20,mr-mohd@gmail.com,1234
